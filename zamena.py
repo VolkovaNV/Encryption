@@ -9,7 +9,7 @@ import re
 window = Tk()
 window.title("Лабораторная №1 шифр")
 window.geometry("500x250")
- 
+
 
 
 #зашифровать 
