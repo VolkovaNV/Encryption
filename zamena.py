@@ -38,6 +38,8 @@ def Rah():
         else:
             encrypted_text += char
     txt['text'] = encrypted_text
+    print(encrypted_text)
+    
 
    # from collections import Counter
 
